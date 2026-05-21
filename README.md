@@ -1,20 +1,62 @@
-## Hi ✌, I'm Igor Rian
+# Hi ✌, I'm Igor Rian
+
+### Front-end Developer focused on React, Next.js and TypeScript
+
+💻 Building modern, responsive and scalable web applications with focus on performance and user experience
+
+🚀 Experience with React, Next.js, TypeScript, Tailwind CSS, REST APIs, component-based architecture and modern front-end development practices
+
+<div align="center">
+  <a href="https://github.com/Igorrst">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Igorrst&show_icons=true&theme=tokyonight&border_color=134eff&border_radius=10"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igorrst&layout=compact&theme=tokyonight&border_color=134eff&border_radius=10"/>
+  </a>
+</div>
+
+---
+
+## 🚀 Technologies
+
+<div align="center">
+
+  <img alt="JavaScript" height="45" width="55"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+
+  <img alt="TypeScript" height="45" width="55"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
+
+  <img alt="React" height="45" width="55"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+
+  <img alt="Next.js" height="45" width="55"
+    src="https://cdn.worldvectorlogo.com/logos/next-js.svg" />
+
+  <img alt="Tailwind CSS" height="45" width="55"
+    src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" />
+
+  <img alt="Git" height="45" width="55"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
+
+</div>
+
+---
+
+## 🌐 Connect with me
 
 <div>
-  <a href="https://github.com/Igorrst">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Igorrst&show_icons=true&theme=tokyonight&border_color=134eff&border_radius=10">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igorrst&layout=compact&theme=tokyonight&border_color=134eff&border_radius=10">
-</div>
+  <a href="https://www.linkedin.com/in/igorrian/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Igor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Igor-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Igor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Igor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Igor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+  <a href="https://www.instagram.com/igor.rst/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
 
-##
- 
-<div> <a href="https://www.instagram.com/igor.rst/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href="https://discord.com/users/266205816237981697" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/igorrian/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://discord.com/users/266205816237981697" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+
+  <a href="mailto:igorrian.cntgm18@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </div>
