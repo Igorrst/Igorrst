@@ -9,8 +9,11 @@
 🎯 Focused on performance, user experience and clean code  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Igorrst&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igorrst&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="160"/>
+  <img height="160em"
+    src="https://github-readme-stats.vercel.app/api?username=Igorrst&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+
+  <img height="160em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igorrst&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 </div>
 
 ---
