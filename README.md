@@ -1,48 +1,37 @@
 # Hi, I'm Igor Rian 👋
 
----
+Front-End Developer with professional experience building and maintaining web applications using React, Next.js and TypeScript.
+
+Currently studying Software Engineering and expanding my knowledge in Back-End development with Node.js, SQL and PostgreSQL.
 
 ## About me
 
-💻 Front-end Developer focused on React, Next.js and TypeScript  
-🚀 Building modern, responsive and scalable web applications  
-🎯 Focused on performance, user experience and clean code  
+💻 Professional experience with React, Next.js, TypeScript and JavaScript  
+🏨 Worked on web applications and internal systems for the Hotels area at MaxMilhas  
+🔗 Experience with REST APIs, integrations and Postman  
+🧪 Experience with functional tests, unit tests, QA and homologation  
+🚀 Familiar with Git, code reviews, CI/CD pipelines and deployments  
+🤖 I use AI tools such as Codex, Claude and Cursor to support development, debugging and code review  
+📚 Currently studying Software Engineering
 
-<div align="center">
+## Tech Stack
 
-  <img height="170em"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Igorrst&theme=tokyonight&hide_border=true"/>
+### Front-End
+React • Next.js • TypeScript • JavaScript • HTML5 • CSS3 • Tailwind CSS
 
-</div>
+### Back-End & Data
+Node.js • SQL • PostgreSQL • REST APIs
 
----
+### Tools
+Git • GitHub • GitLab • Bitbucket • Postman • Docker • Vercel
 
-## I code with
+## Featured Projects
 
-<div>
-  <img alt="JavaScript" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img alt="TypeScript" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img alt="React" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img alt="Next.js" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img alt="Tailwind CSS" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
-  <img alt="Git" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-</div>
+Check out my projects and applications:
 
----
+🌐 [Portfolio](https://portfolio-igor-rian.vercel.app/)
 
 ## Social
 
-<div>
-  <a href="https://www.linkedin.com/in/igorrian/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://www.instagram.com/igor.rst/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="https://discord.com/users/266205816237981697" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-  </a>
-  <a href="mailto:igorrian.cntgm18@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</div>
+💼 [LinkedIn](https://www.linkedin.com/in/igorrian/)  
+🌐 [Portfolio](https://portfolio-igor-rian.vercel.app/)
